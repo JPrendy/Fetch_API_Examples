@@ -1,0 +1,4 @@
+The reason is in regard to security issues as you are allowing the read access to the browser, which could allow viruses to appear, for more
+how to setup a local server check the following link
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
